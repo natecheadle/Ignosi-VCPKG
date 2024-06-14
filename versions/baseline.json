@@ -3,6 +3,10 @@
     "ignosi-dll": {
       "baseline": "1.0.0",
       "port-version": 0
+    },
+    "ignosi-memory": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }
