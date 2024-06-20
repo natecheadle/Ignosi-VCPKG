@@ -1,6 +1,6 @@
 {
   "name": "ignosi-memory",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A small shared library that includes allocators that are useful for sharing memory across DLL boundaries",
   "homepage": "https://github.com/natecheadle/Ignosi-Memory",
   "dependencies": [
@@ -14,6 +14,9 @@
     },
     {
       "name": "ignosi-dll"
+    },
+    {
+      "name": "fmt"
     }
   ]
 }
