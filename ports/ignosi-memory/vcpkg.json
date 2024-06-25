@@ -1,6 +1,6 @@
 {
   "name": "ignosi-memory",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A small shared library that includes allocators that are useful for sharing memory across DLL boundaries",
   "homepage": "https://github.com/natecheadle/Ignosi-Memory",
   "dependencies": [
@@ -11,9 +11,6 @@
     {
       "name": "vcpkg-cmake-config",
       "host": true
-    },
-    {
-      "name": "ignosi-dll"
     },
     {
       "name": "fmt"
