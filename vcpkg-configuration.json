@@ -5,7 +5,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/Microsoft/vcpkg",
-      "baseline": "cbf4a6641528cee6f172328984576f51698de726",
+      "baseline": "576379156e82da642f8d1834220876759f13534d",
       "packages": [
         "*"
       ]
